@@ -40,7 +40,6 @@ namespace IndrivoTest.Bussines.Services
             {
                 types[index] = updatedType;
             }
-
              
         }
 
